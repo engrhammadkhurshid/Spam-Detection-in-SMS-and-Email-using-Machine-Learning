@@ -41,6 +41,6 @@ This project demonstrates the application of Machine Learning (ML) to enhance cy
 - **Probability Scoring**: Outputting probability metrics (Confidence Levels) rather than strict binaries for more nuanced SOC alerting.
 
 ### Dataset Used
-In this project dataset was synthetic dataset from HackTheBox platform.
+In this project dataset was synthetic dataset from HackTheBox.
 
 **Author:** Engr. Hammad Khurshid
